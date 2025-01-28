@@ -1,2 +1,2 @@
 # my-react-spa
-การสร้าง Single Page Applications (SPA) อย่างง่าย โดยใช้ react และ vite 
+บทสอนนี้จะแนะนำวิธีการสร้าง Single Page Application (SPA) โดยใช้ React และ Vite จากนั้นจะ deploy ขึ้น GitHub Pages 
